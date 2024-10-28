@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="《西藏》 1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="西藏",神圣疆土（下集）
+#EXTINF:-1 tvg-name="《西藏》 1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="西藏",神圣疆土（上集）
 https://hls.cntv.myhwcdn.cn/asp/hls/main/0303000a/3/default/fb9c46d4a50844daad472734ff6ce909/main.m3u8?maxbr=2048
 #EXTINF:-1 tvg-name="《西藏》 2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="西藏",神圣疆土（下集）
 https://hls.cntv.myhwcdn.cn/asp/hls/main/0303000a/3/default/788a508e72d04ccf811f4c6966b75aba/main.m3u8?maxbr=2048
