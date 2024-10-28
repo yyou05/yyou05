@@ -5,14 +5,14 @@ https://hls.cntv.myhwcdn.cn/asp/hls/main/0303000a/3/default/fb9c46d4a50844daad47
 https://hls.cntv.myhwcdn.cn/asp/hls/main/0303000a/3/default/788a508e72d04ccf811f4c6966b75aba/main.m3u8?maxbr=2048
 #EXTINF:-1 tvg-name="《西藏》3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="西藏", 盛世新生（上集）
 https://hls.cntv.myhwcdn.cn/asp/hls/main/0303000a/3/default/f383e222eea1496080d9161436ba1e16/main.m3u8?maxbr=2048
-#EXTINF:-1 tvg-name="《西藏》4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="西藏",CCTV-4 中文国际
-https://dhls.cntv.myhwcdn.cn/asp/audio/0/9/6/e/096e7e0cd21d4274aa6d09fc0ef85faa/mp3/main.m3u8
-#EXTINF:-1 tvg-name="《西藏》5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="西藏",CCTV-5 体育
-https://dhls.cntv.myhwcdn.cn/asp/audio/5/3/0/9/530982b5fde54d92bab7d5d4327d336d/mp3/main.m3u8
-#EXTINF:-1 tvg-name="《西藏》6" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="西藏",CCTV-5+ 体育赛事
-https://dhls.cntv.myalicdn.com/asp/audio/4/d/7/2/4d72174bf9914200994010117c118661/mp3/main.m3u8
-#EXTINF:-1 tvg-name="北京" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="航拍",CCTV-6 电影
-https://mp4outplaycloud-cdn.ysp.cctv.cn/u0000400jih.TyjG10002.mp4?sdtfrom=4330701&guid=m2t5tcyv_iezhbziz5hd&vkey=F200B49909C3171E5E1BD2D357487FB12C95CA56D77DD4CA43451CD031D9FB9D5C049A09815D29BB1C1B26D256161FC3EE217D888D5DD330251C2ECE8EF54595F2359B5CB84A4EC00AE7033C6310B9557EFB797BF778EE2C15ACA3FA7770DDB1C3FC08CD755632353869DFD8638BE29BBEE1BC5BEA773ED826CDF2DACE130469&platform=2
+#EXTINF:-1 tvg-name="《西藏》4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="西藏",盛世新生（下集）
+https://hls.cntv.myhwcdn.cn/asp/hls/main/0303000a/3/default/096e7e0cd21d4274aa6d09fc0ef85faa/main.m3u8?maxbr=2048
+#EXTINF:-1 tvg-name="《西藏》5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="西藏",活佛转世（上集）
+https://hls.cntv.myhwcdn.cn/asp/hls/main/0303000a/3/default/530982b5fde54d92bab7d5d4327d336d/main.m3u8?maxbr=2048
+#EXTINF:-1 tvg-name="《西藏》6" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="西藏",活佛转世（下集）
+https://hls.cntv.myhwcdn.cn/asp/hls/main/0303000a/3/default/4d72174bf9914200994010117c118661/main.m3u8?maxbr=2048
+#EXTINF:-1 tvg-name="新疆" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="航拍",新疆
+https://dh5.cntv.myhwcdn.cn/asp/h5e/hls/main/0303000a/3/default/611dfd08172c4e3082289d6d33db4df4/main.m3u8?contentid=15120519184043
 #EXTINF:-1 tvg-name="广西" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="航拍",CCTV-7 国防军事
 https://dh5.cntv.lxdns.com/asp/h5e/hls/2000/0303000a/3/default/cd46b00273dc40b99f8071799fb81403/2000.m3u8
 #EXTINF:-1 tvg-name="青海" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="航拍",CCTV-8 电视剧
