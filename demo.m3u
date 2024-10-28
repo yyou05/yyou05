@@ -3,8 +3,8 @@
 https://dhls.cntv.myhwcdn.cn/asp/audio/f/b/9/c/fb9c46d4a50844daad472734ff6ce909/mp3/main.m3u8
 #EXTINF:-1 tvg-name="《西藏》 2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="西藏",CCTV-2 财经
 https://dhls.cntv.myhwcdn.cn/asp/audio/7/8/8/a/788a508e72d04ccf811f4c6966b75aba/mp3/main.m3u8
-#EXTINF:-1 tvg-name="《西藏》3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="西藏",CCTV-3 综艺
-https://dhls.cntv.myalicdn.com/asp/audio/f/3/8/3/f383e222eea1496080d9161436ba1e16/mp3/main.m3u8
+#EXTINF:-1 tvg-name="《西藏》3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="西藏", 盛世新生（上集）
+https://hls.cntv.myhwcdn.cn/asp/hls/main/0303000a/3/default/f383e222eea1496080d9161436ba1e16/main.m3u8?maxbr=2048
 #EXTINF:-1 tvg-name="《西藏》4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="西藏",CCTV-4 中文国际
 https://dhls.cntv.myhwcdn.cn/asp/audio/0/9/6/e/096e7e0cd21d4274aa6d09fc0ef85faa/mp3/main.m3u8
 #EXTINF:-1 tvg-name="《西藏》5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="西藏",CCTV-5 体育
